@@ -20,6 +20,7 @@
   - **后端**：Python 核心，擅长 **FastAPI** 高并发架构（配合 Redis + Celery 消息队列）。
   - **前端**：React 生态 (Next.js/Vite)，熟练使用 TailwindCSS 进行界面开发。
   - **客户端**：使用 **Tauri** 开发高性能桌面应用，具备编写 **Rust** 核心逻辑的能力。
+  - **运维与工程化**：熟悉 Docker 容器化部署，习惯 Windows 开发 + Linux 生产环境部署流程。
 
 ---
 
@@ -72,12 +73,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huancheng01&show_icons=true&theme=tokyonight&count_private=true&locale=cn&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huancheng01&layout=compact&theme=tokyonight&locale=cn&hide_border=true&hide=html,css,jupyter%20notebook" height="150" alt="languages graph" />
-</div>
