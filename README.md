@@ -1,75 +1,88 @@
-### Hi there, I'm Huancheng01 👋
+<div align="center">
+  
+  <!-- 1. 动态打字机头部：循环播放你的身份 -->
+  <a href="https://github.com/huancheng01">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Huancheng01;AI+Algorithm+Engineer;Full+Stack+Developer;Building+Cool+Stuff..." alt="Typing SVG" />
+  </a>
 
-我是一名拥有 **AI 算法** 背景的 **全栈开发者**。
-比起单纯的模型调用，我更热衷于将 AI 能力（CV/LLM）落地到实际的 Web 或桌面应用中。
+  <!-- 2. 一句话 Slogan / 简介 -->
+  <p align="center">
+    <em>" 将算法落地于应用，用代码构建未来 "</em>
+  </p>
 
----
+  <!-- 3. 社交/基础信息徽章 -->
+  <p>
+    <img src="https://img.shields.io/badge/Location-China-red?style=flat-square&logo=location-dot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Computer_Vision-blueviolet?style=flat-square&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-LLM_&_RAG-blue?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Web_&_Desktop-orange?style=flat-square&logo=react&logoColor=white" />
+  </p>
 
-### 💡 我在做什么 (What I Do)
+</div>
 
-- 🧠 **大模型与 NLP**：
-  - 熟悉 **RAG** 开发流程，使用 **LangChain** 构建应用。
-  - 有 **模型微调 (Fine-tuning)** 经验 (SenseVoice)，熟悉 **Ollama / vLLM** 私有化部署。
-  - 构建基于 **Neo4j** 的知识图谱，并具备**手动构建高质量数据集**的能力。
+<br/>
 
-- 👁️ **计算机视觉 (CV)**：
-  - 熟练使用 **YOLO (v5/v8/v11)** 进行目标检测与模型训练。
-  - 熟悉 **PaddleOCR** 及图像后处理（ROI裁剪/目标提取）。
-
-- 💻 **全栈与跨端开发**：
-  - **后端**：Python 核心，擅长 **FastAPI** 高并发架构（配合 Redis + Celery 消息队列）。
-  - **前端**：React 生态 (Next.js/Vite)，熟练使用 TailwindCSS 进行界面开发。
-  - **客户端**：使用 **Tauri** 开发高性能桌面应用，具备编写 **Rust** 核心逻辑的能力。
-  - **运维与工程化**：熟悉 Docker 容器化部署，习惯 Windows 开发 + Linux 生产环境部署流程。
-
----
-
-### 🛠️ 技术栈概览 (Tech Stack)
-
+<!-- 4. 核心能力卡片布局 (Table模拟) -->
+<!-- 使用表格将原本的垂直列表变成横向展示，看起来更像网页 -->
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h4>🤖 AI & Data Science</h4>
+    <td align="center" width="33%">
+      <h3>🧠 AI & LLM</h3>
+      <div align="center">
+        构建知识图谱 (Neo4j)<br/>
+        RAG 应用开发 (LangChain)<br/>
+        模型微调 (SenseVoice)<br/>
+        私有化部署 (Ollama/vLLM)
+      </div>
     </td>
-    <td align="center" width="50%">
-      <h4>🚀 Full Stack & DevOps</h4>
+    <td align="center" width="33%">
+      <h3>👁️ Computer Vision</h3>
+      <div align="center">
+        目标检测 (YOLO v5/v8/v11)<br/>
+        OCR 识别 (PaddleOCR)<br/>
+        图像分割 & ROI 提取<br/>
+        数据集构建与处理
+      </div>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- 语言与框架 -->
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <br/>
-      <!-- CV -->
-      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/PaddlePaddle-00A4A6?style=flat-square&logo=baidu&logoColor=white" />
-      <br/>
-      <!-- LLM & Data -->
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white" />
-    </td>
-    <td align="center">
-      <!-- 前端 -->
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <br/>
-      <!-- 桌面端 -->
-      <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-      <br/>
-      <!-- 后端 -->
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <br/>
-      <!-- 运维 -->
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <td align="center" width="33%">
+      <h3>💻 Full Stack</h3>
+      <div align="center">
+        桌面端 (Tauri + Rust)<br/>
+        前端 (React + Tailwind)<br/>
+        后端 (FastAPI + Redis)<br/>
+        工程化 (Docker + Linux)
+      </div>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- 5. 技能图标墙 (无边框设计) -->
+<h3 align="center">🛠️ Tech Stack Arsenal</h3>
+
+<div align="center">
+  
+  <!-- AI 组 -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <br/>
+  
+  <!-- 前端/客户端组 -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <br/>
+  
+  <!-- 后端/运维组 -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+<br/>
