@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- 1. 动态波浪背景 + 用户名 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&gradient&height=200&section=header&text=Huancheng01&fontSize=80&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&gradient&height=200&section=header&text=zexadev&fontSize=80&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
 
   <!-- 2. 打字机特效 (展示你的多重身份) -->
-  <a href="https://github.com/huancheng01">
+  <a href="https://github.com/zexadev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=AI+Algorithm+Engineer;Full+Stack+Developer+(Rust+%2B+Tauri);Building+RAG+%26+CV+Applications" alt="Typing SVG" />
   </a>
 
