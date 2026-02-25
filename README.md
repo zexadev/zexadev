@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. 动态波浪背景 + 用户名 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&gradient&height=200&section=header&text=zexadev&fontSize=80&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&gradient&height=200&section=header&text=zexa&fontSize=80&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
 
   <!-- 2. 打字机特效 (展示你的多重身份) -->
   <a href="https://github.com/zexadev">
