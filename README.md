@@ -73,28 +73,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
 </div>
 
-<!-- ========== PIXEL STATS ========== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  Pixel Stats
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zexadev&screen_effect=true&theme=blue_chill&hide=stars,issues,prs">
-    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zexadev&theme=summer&hide=stars,issues,prs">
-    <img alt="pixel stats" src="https://pixel-profile.vercel.app/api/github-stats?username=zexadev&screen_effect=true&theme=blue_chill&hide=stars,issues,prs">
-  </picture>
-</div>
-
-<!-- ========== 分割线 ========== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
-</div>
-
 <!-- ========== TOP LANGUAGES ========== -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
   Top Languages
 </h2>
 
