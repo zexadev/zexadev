@@ -121,3 +121,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=120&section=footer" width="100%"/>
 </div>
 
+<!-- badge -->
