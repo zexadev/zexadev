@@ -22,8 +22,10 @@
 
 </div>
 
-<!-- ========== 动画分割线 ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ========== 分割线 ========== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
+</div>
 
 <!-- ========== TECH STACK ========== -->
 <h2 align="center">
@@ -66,38 +68,62 @@
 
 </div>
 
-<!-- ========== 动画分割线 ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ========== GITHUB STATS ========== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  GitHub Stats
-</h2>
-
+<!-- ========== 分割线 ========== -->
 <div align="center">
-
-  <!-- Streak 连续提交，只要持续贡献就好看 -->
-  <img src="https://streak-stats.demolab.com?user=zexadev&theme=tokyonight&hide_border=true&background=00000000" />
-
-  <br/><br/>
-
-  <!-- Top Languages — 多语言是亮点，用 donut 圆饼图更醒目 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zexadev&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
 </div>
 
-<!-- ========== 动画分割线 ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ========== ACTIVITY GRAPH ========== -->
+<!-- ========== PIXEL STATS ========== -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-  Activity Graph
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  Pixel Stats
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zexadev&theme=tokyo-night&hide_border=true&bg_color=00000000&line=36BCF7&point=5B86E5&color=ffffff" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zexadev&screen_effect=true&theme=blue_chill&hide=stars,issues,prs">
+    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zexadev&theme=summer&hide=stars,issues,prs">
+    <img alt="pixel stats" src="https://pixel-profile.vercel.app/api/github-stats?username=zexadev&screen_effect=true&theme=blue_chill&hide=stars,issues,prs">
+  </picture>
+</div>
+
+<!-- ========== 分割线 ========== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
+</div>
+
+<!-- ========== TOP LANGUAGES ========== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Top Languages
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zexadev&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+</div>
+
+<!-- ========== 分割线 ========== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
+</div>
+
+<!-- ========== 3D CONTRIBUTION ========== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+  3D Contribution Graph
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3d contrib" src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%">
+  </picture>
+</div>
+
+<!-- ========== 分割线 ========== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
 </div>
 
 <!-- ========== CONTRIBUTION SNAKE ========== -->
@@ -114,11 +140,34 @@
   </picture>
 </div>
 
+<!-- ========== 分割线 ========== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
+</div>
+
+<!-- ========== FUN ZONE ========== -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  Fun Zone
+</h2>
+
+<div align="center">
+
+  <!-- 随机程序员笑话 -->
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+
+  <br/><br/>
+
+  <!-- 随机编程名言 -->
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" />
+  </a>
+
+</div>
+
 <br/>
 
 <!-- ========== WAVE FOOTER ========== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=120&section=footer" width="100%"/>
 </div>
-
-<!-- badge -->
