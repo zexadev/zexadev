@@ -80,7 +80,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zexadev&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zexadev&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
 </div>
 
 <!-- ========== 分割线 ========== -->
@@ -96,9 +96,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
-    <img alt="3d contrib" src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3d contrib" src="./profile-3d-contrib/profile-night-green.svg" width="95%">
   </picture>
 </div>
 
