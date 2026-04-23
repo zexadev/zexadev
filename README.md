@@ -45,7 +45,7 @@
 
   <!-- 框架 & 前端 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tauri,react,vue,tailwind,fastapi&perline=5" />
+    <img src="https://skillicons.dev/icons?i=tauri,react,vue,tailwind,fastapi,gin&perline=6" />
   </a>
   <br/><sub><b>Frameworks</b></sub>
 
