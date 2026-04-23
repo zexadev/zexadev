@@ -53,7 +53,7 @@
 
   <!-- AI / 数据库 / 基础设施 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,redis,sqlite,docker,linux,git,vscode,idea&perline=11" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,redis,sqlite,docker,linux,bun,git,vscode,idea&perline=12" />
   </a>
   <br/><sub><b>AI / Database / Infra / Tools</b></sub>
 
