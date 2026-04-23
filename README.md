@@ -73,40 +73,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
 </div>
 
-<!-- ========== TOP LANGUAGES ========== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  Top Languages
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zexadev&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
-</div>
-
-<!-- ========== 分割线 ========== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
-</div>
-
-<!-- ========== 3D CONTRIBUTION ========== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-  3D Contribution Graph
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3d contrib" src="./profile-3d-contrib/profile-night-green.svg" width="95%">
-  </picture>
-</div>
-
-<!-- ========== 分割线 ========== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
-</div>
-
 <!-- ========== CONTRIBUTION SNAKE ========== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="30">
