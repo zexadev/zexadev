@@ -45,7 +45,7 @@
 
   <!-- 框架 & 前端 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tauri,react,vue,tailwind,fastapi,gin&perline=6" />
+    <img src="https://skillicons.dev/icons?i=tauri,react,vue,tailwind,fastapi&perline=5" />
   </a>
   <br/><sub><b>Frameworks</b></sub>
 
@@ -60,6 +60,7 @@
   <br/><br/>
 
   <!-- Skill Icons 没有的技术，用 badge 补充 -->
+  <img src="https://img.shields.io/badge/Gin-Go_Web-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-v5%2Fv8%2Fv11-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/PaddleOCR-OCR-00A4A6?style=flat-square&logo=baidu&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
