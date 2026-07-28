@@ -4,21 +4,8 @@
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&logo=yolo&logoColor=36BCF7" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/Vue-0d1117?style=flat-square&logo=vuedotjs&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=36BCF7" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=36BCF7" />
+  <p><img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&logo=yolo&logoColor=36BCF7" /></p>
+  <p><img src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/Vue-0d1117?style=flat-square&logo=vuedotjs&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=36BCF7" /> <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=36BCF7" /></p>
 
 </div>
 
