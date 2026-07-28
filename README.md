@@ -1,84 +1,28 @@
 <div align="center">
 
-  <!-- ========== WAVE HEADER ========== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=220&section=header&text=zexa&fontSize=80&fontColor=ffffff&fontAlign=50&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-  <!-- ========== TYPING SVG ========== -->
-  <a href="https://github.com/zexadev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=AI+%2B+CV+Engineer;Rust+%2B+Tauri+Desktop+Developer;Go+%2F+Python+%2F+TypeScript+Full+Stack;Building+Tools+That+Matter" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- ========== PROFILE VIEWS ========== -->
-  <img src="https://komarev.com/ghpvc/?username=zexadev&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="assets/header.svg" width="100%" alt="zexa — 用 Rust 造工具，用 AI 解问题，用全栈做产品" />
 
   <br/><br/>
 
-  <!-- ========== ABOUT ME ========== -->
-  <p>
-    " 用 <b>Rust</b> 造工具，用 <b>AI</b> 解问题，用 <b>全栈</b> 做产品 "
-  </p>
+  <samp>Rust · Go · Python · TypeScript&nbsp;&nbsp;|&nbsp;&nbsp;PyTorch · OpenCV · YOLO&nbsp;&nbsp;|&nbsp;&nbsp;Tauri · React · Vue · Gin</samp>
 
 </div>
 
-<!-- ========== 分割线 ========== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
-</div>
+### Featured
 
-<!-- ========== TECH STACK ========== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  Tech Stack
-</h2>
+| 项目 | 简介 |
+| :-- | :-- |
+| [**gemini-web2api-go**](https://github.com/zexadev/gemini-web2api-go) | 把 Gemini 网页协议反代成 OpenAI 兼容 API — 单二进制 · Chrome 指纹 · 内置管理台 |
+| [**lapisnote**](https://github.com/zexadev/lapisnote) | Local-first 桌面笔记应用，内置 AI 写作助手 |
+| [**moyin-creator**](https://github.com/zexadev/moyin-creator) | AI 影视生产工具 — 剧本到成片全流程批量化 |
+| [**hudo**](https://github.com/zexadev/hudo) | 开发环境一键引导 CLI |
+| [**plantvillage-on-yolo11**](https://github.com/zexadev/plantvillage-on-yolo11) | 基于 YOLOv11 的作物病害识别 |
 
-<div align="center">
+### Activity
 
-  <!-- 核心语言 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,go,ts,js,java&perline=6" />
-  </a>
-  <br/><sub><b>Languages</b></sub>
-
-  <br/><br/>
-
-  <!-- 框架 & 前端 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tauri,react,vue,tailwind,fastapi&perline=5" />
-  </a>
-  <br/><sub><b>Frameworks</b></sub>
-
-  <br/><br/>
-
-  <!-- AI / 数据库 / 基础设施 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,redis,sqlite,docker,linux,bun,git,vscode,idea&perline=12" />
-  </a>
-  <br/><sub><b>AI / Database / Infra / Tools</b></sub>
-
-  <br/><br/>
-
-  <!-- Skill Icons 没有的技术，用 badge 补充 -->
-  <img src="https://img.shields.io/badge/Gin-Go_Web-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-v5%2Fv8%2Fv11-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/PaddleOCR-OCR-00A4A6?style=flat-square&logo=baidu&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-Graph-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=flat-square&logo=react&logoColor=black" />
-
-</div>
-
-<!-- ========== 分割线 ========== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
-</div>
-
-<!-- ========== CONTRIBUTION SNAKE ========== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="30">
-  Contribution Snake
-</h2>
+<!-- STATS:START -->
+过去一年 <b>231</b> commits · 累计 <b>68</b> pull requests · <b>46</b> stars · <b>28</b> 个公开仓库
+<!-- STATS:END -->
 
 <div align="center">
   <picture>
@@ -86,36 +30,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zexadev/zexadev/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/zexadev/zexadev/output/github-snake.svg" />
   </picture>
-</div>
-
-<!-- ========== 分割线 ========== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:5B86E5&height=2" width="100%"/>
-</div>
-
-<!-- ========== FUN ZONE ========== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  Fun Zone
-</h2>
-
-<div align="center">
-
-  <!-- 随机程序员笑话 -->
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
-
-  <br/><br/>
-
-  <!-- 随机编程名言 -->
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" />
-  </a>
-
-</div>
-
-<br/>
-
-<!-- ========== WAVE FOOTER ========== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=120&section=footer" width="100%"/>
 </div>
