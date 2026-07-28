@@ -1,0 +1,37 @@
+name: Update Activity Stats
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh stats line in README
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          data=$(gh api graphql -f query='{ user(login:"zexadev"){ pullRequests{totalCount} contributionsCollection{totalCommitContributions} repositories(privacy:PUBLIC, ownerAffiliations:OWNER, first:100){ totalCount nodes{stargazerCount} } } }')
+          commits=$(echo "$data" | jq '.data.user.contributionsCollection.totalCommitContributions')
+          prs=$(echo "$data" | jq '.data.user.pullRequests.totalCount')
+          repos=$(echo "$data" | jq '.data.user.repositories.totalCount')
+          stars=$(echo "$data" | jq '[.data.user.repositories.nodes[].stargazerCount] | add')
+          line="过去一年 <b>${commits}</b> commits · 累计 <b>${prs}</b> pull requests · <b>${stars}</b> stars · <b>${repos}</b> 个公开仓库"
+          perl -0pi -e "s|(<!-- STATS:START -->).*?(<!-- STATS:END -->)|\$1\n${line}\n\$2|s" README.md
+
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh activity stats"
+            git push
+          fi
