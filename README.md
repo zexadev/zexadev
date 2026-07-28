@@ -14,7 +14,7 @@
 | :-- | :-- |
 | [**gemini-web2api-go**](https://github.com/zexadev/gemini-web2api-go) | 把 Gemini 网页协议反代成 OpenAI 兼容 API — 单二进制 · Chrome 指纹 · 内置管理台 |
 | [**lapisnote**](https://github.com/zexadev/lapisnote) | Local-first 桌面笔记应用，内置 AI 写作助手 |
-| [**moyin-creator**](https://github.com/zexadev/moyin-creator) | AI 影视生产工具 — 剧本到成片全流程批量化 |
+| [**tianjie5**](https://github.com/zexadev/tianjie5) | 天际5 — 浏览器里的开放世界 RPG（Three.js · 零构建） |
 | [**hudo**](https://github.com/zexadev/hudo) | 开发环境一键引导 CLI |
 | [**plantvillage-on-yolo11**](https://github.com/zexadev/plantvillage-on-yolo11) | 基于 YOLOv11 的作物病害识别 |
 
