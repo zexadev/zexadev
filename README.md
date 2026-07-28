@@ -4,7 +4,21 @@
 
   <br/><br/>
 
-  <samp>Rust · Go · Python · TypeScript&nbsp;&nbsp;|&nbsp;&nbsp;PyTorch · OpenCV · YOLO&nbsp;&nbsp;|&nbsp;&nbsp;Tauri · React · Vue · Gin</samp>
+  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&logo=yolo&logoColor=36BCF7" />
+  <br/>
+  <img src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/Vue-0d1117?style=flat-square&logo=vuedotjs&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=36BCF7" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=36BCF7" />
 
 </div>
 
@@ -24,12 +38,10 @@
 过去一年 <b>253</b> commits · 累计 <b>176</b> pull requests · <b>52</b> stars · <b>28</b> 个公开仓库
 <!-- STATS:END -->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zexadev&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=21262d&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&hide_title=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=zexadev&background=0d1117&border=21262d&ring=36BCF7&fire=36BCF7&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e" alt="Streak" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zexadev&bg_color=0d1117&color=c9d1d9&line=36BCF7&point=5b86e5&area=true&area_color=1c2c3d&hide_border=false&border_color=21262d&radius=8" width="100%" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
+</picture>
 
 <div align="center">
   <picture>
