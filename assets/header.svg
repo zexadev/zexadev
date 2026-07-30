@@ -25,11 +25,11 @@
   </defs>
 
   <style>
-    .flow { animation: slide 13s linear infinite; }
+    .flow { animation: slide 6s linear infinite; }
     @keyframes slide { from { transform: translateX(0) } to { transform: translateX(-830px) } }
-    .b1 { animation: f1 11s ease-in-out infinite; }
-    .b2 { animation: f2 15s ease-in-out infinite; }
-    .b3 { animation: f3 9s  ease-in-out infinite; }
+    .b1 { animation: f1 7s ease-in-out infinite; }
+    .b2 { animation: f2 9s ease-in-out infinite; }
+    .b3 { animation: f3 5s ease-in-out infinite; }
     @keyframes f1 { 0%,100% { transform: translate(-40px,-18px) } 50% { transform: translate(260px,26px) } }
     @keyframes f2 { 0%,100% { transform: translate(60px,24px)   } 50% { transform: translate(-240px,-20px) } }
     @keyframes f3 { 0%,100% { transform: translate(0,20px)      } 50% { transform: translate(190px,-26px) } }
