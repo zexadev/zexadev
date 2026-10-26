@@ -18,8 +18,6 @@
 | [**hudo**](https://github.com/zexadev/hudo) | 开发环境一键引导 CLI（Rust）· One-command dev-environment bootstrap | ![](https://img.shields.io/github/stars/zexadev/hudo?style=flat-square&labelColor=0d1117&color=36BCF7&label=%E2%AD%90) ![](https://img.shields.io/github/v/release/zexadev/hudo?style=flat-square&labelColor=0d1117&color=36BCF7&label=) |
 | [**tianjie5**](https://github.com/zexadev/tianjie5) | 天际5：浏览器里的开放世界 RPG（Three.js，零构建）· Open-world RPG in the browser | ![](https://img.shields.io/github/stars/zexadev/tianjie5?style=flat-square&labelColor=0d1117&color=36BCF7&label=%E2%AD%90) |
 
-早期 / 课程项目：[plantvillage-on-yolo11](https://github.com/zexadev/plantvillage-on-yolo11)（YOLOv11 作物病害识别）· [YOLO-AND-paddleOCR-license-plate](https://github.com/zexadev/YOLO-AND-paddleOCR-license-plate)（车牌检测 + OCR）· [news_extractor_llm](https://github.com/zexadev/news_extractor_llm)（大模型新闻信息抽取）
-
 ### Activity
 
 <!-- STATS:START -->
