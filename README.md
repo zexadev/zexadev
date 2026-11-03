@@ -4,7 +4,7 @@
 
   <br/><br/>
 
-  <samp>Go · Rust · TypeScript&nbsp;&nbsp;|&nbsp;&nbsp;Tauri 2 · React · iroh&nbsp;&nbsp;|&nbsp;&nbsp;SQLite · Vite</samp>
+  <samp>Go · Rust · Python · TypeScript&nbsp;&nbsp;|&nbsp;&nbsp;Tauri 2 · React · iroh&nbsp;&nbsp;|&nbsp;&nbsp;SQLite · Vite</samp>
 
 </div>
 
