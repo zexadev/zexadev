@@ -18,12 +18,11 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          data=$(gh api graphql -f query='{ user(login:"zexadev"){ pullRequests{totalCount} contributionsCollection{totalCommitContributions} repositories(privacy:PUBLIC, ownerAffiliations:OWNER, first:100){ totalCount nodes{stargazerCount} } } }')
+          data=$(gh api graphql -f query='{ user(login:"zexadev"){ contributionsCollection{totalCommitContributions} repositories(privacy:PUBLIC, ownerAffiliations:OWNER, first:100){ totalCount nodes{stargazerCount} } } }')
           commits=$(echo "$data" | jq '.data.user.contributionsCollection.totalCommitContributions')
-          prs=$(echo "$data" | jq '.data.user.pullRequests.totalCount')
           repos=$(echo "$data" | jq '.data.user.repositories.totalCount')
           stars=$(echo "$data" | jq '[.data.user.repositories.nodes[].stargazerCount] | add')
-          line="过去一年 <b>${commits}</b> commits · 累计 <b>${prs}</b> pull requests · <b>${stars}</b> stars · <b>${repos}</b> 个公开仓库"
+          line="过去一年 <b>${commits}</b> commits · <b>${stars}</b> stars · <b>${repos}</b> 个公开仓库"
           perl -0pi -e "s|(<!-- STATS:START -->).*?(<!-- STATS:END -->)|\$1\n${line}\n\$2|s" README.md
 
       - name: Commit if changed
