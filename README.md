@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/header.svg" width="100%" alt="zexa — 用 Rust 造工具，用 AI 解问题，用全栈做产品" />
+  <img src="assets/header.svg" width="100%" alt="zexa — open source: Gemini API proxy (gemini-web2api-go) · DeepSeek Harness on your phone (DSH Tether) · local-first notes (Lapis) · Windows dev bootstrap (hudo)" />
 
   <br/><br/>
 

@@ -49,5 +49,6 @@
   <text x="415" y="96" text-anchor="middle" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="56" font-weight="700" fill="#231A33">zexa</text>
   <rect class="caret" x="492" y="56" width="14" height="44" fill="#231A33"/>
   <rect x="355" y="116" width="120" height="3" rx="1.5" fill="#231A33" opacity="0.32"/>
-  <text x="415" y="154" text-anchor="middle" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17" fill="#3E3252">用 Rust 造工具 · 用 AI 解问题 · 用全栈做产品</text>
+  <text x="415" y="146" text-anchor="middle" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" fill="#3E3252">开源：Gemini 网页反代 API · DSH 手机端 · 本地优先笔记 · Windows 开发环境一键引导</text>
+  <text x="415" y="171" text-anchor="middle" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#3E3252" opacity="0.85">Gemini API proxy · DeepSeek Harness on your phone · local-first notes · Windows dev bootstrap</text>
 </svg>
