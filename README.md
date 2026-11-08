@@ -21,7 +21,7 @@
 ### Activity
 
 <!-- STATS:START -->
-过去一年 <b>982</b> commits · <b>965</b> stars · <b>31</b> 个公开仓库
+过去一年 <b>982</b> commits · <b>967</b> stars · <b>31</b> 个公开仓库
 <!-- STATS:END -->
 
 <div align="center">
